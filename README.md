@@ -26,7 +26,7 @@ continuamente minhas habilidades, buscando aplicar o conhecimento adquirido em p
 ## 🌱 O que estou aprendendo
 - **React.js**
 - **Next.js**
-- **Spring Boot**
+- **Spring**
 - **TypeScript**
 
 <!--
