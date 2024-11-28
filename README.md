@@ -28,6 +28,7 @@ continuamente minhas habilidades, buscando aplicar o conhecimento adquirido em p
 - **Next.js**
 - **Spring**
 - **TypeScript**
+- **Python**
 
 <!--
 ## 📈 Minhas estatísticas
