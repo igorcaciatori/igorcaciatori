@@ -7,7 +7,7 @@
 -->
 
 
-Atualmente, estou concluindo o terceiro ano do ensino médio técnico integrado em Mecatrônica no período da manhã.
+Atualmente, concluí o terceiro ano do ensino médio técnico integrado em Mecatrônica.
 \
 No 2° turno, participo do curso de Programação de Sistemas de Informação no CentroWEG. Sou dedicado a aprimorar
 \
@@ -28,7 +28,6 @@ continuamente minhas habilidades, buscando aplicar o conhecimento adquirido em p
 - **Next.js**
 - **Spring Boot**
 - **TypeScript**
-- **Python**
 
 <!--
 ## 📈 Minhas estatísticas
