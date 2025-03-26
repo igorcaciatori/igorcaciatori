@@ -23,13 +23,13 @@ continuamente minhas habilidades, buscando aplicar o conhecimento adquirido em p
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![ARDUINO](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+<!--
 ## 🌱 O que estou aprendendo
 - **React.js**
 - **Next.js**
 - **Spring Boot**
 - **TypeScript**
 
-<!--
 ## 📈 Minhas estatísticas
 
 ![GITHUB STATS](https://github-readme-stats.vercel.app/api?username=igorcaciatori&show_icons=true&theme=tokyonight)
