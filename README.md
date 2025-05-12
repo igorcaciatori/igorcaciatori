@@ -7,11 +7,9 @@
 -->
 
 
-Atualmente, concluí o terceiro ano do ensino médio técnico integrado em Mecatrônica.
+Atualmente, concluí o terceiro ano do ensino médio técnico integrado em Mecatrônica. Sou dedicado
 \
-No 2° turno, participo do curso de Programação de Sistemas de Informação no CentroWEG. Sou dedicado a aprimorar
-\
-continuamente minhas habilidades, buscando aplicar o conhecimento adquirido em projetos práticos.
+a aprimorar continuamente minhas habilidades, buscando aplicar o conhecimento adquirido em projetos práticos.
 
 ## ⚙️ Tecnologias que utilizo
 
