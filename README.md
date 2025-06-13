@@ -28,6 +28,7 @@ a aprimorar continuamente minhas habilidades, buscando aplicar o conhecimento ad
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+<!--
 ## 🌱 O que estou aprendendo
 - Rust
 
