@@ -1,4 +1,4 @@
-# 👋 Bem vindo! Me chamo Igor Caciatori
+# 👋 Welcome! I'm Igor Caciatori
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/igor_caci)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caciatori07@gmail.com)
@@ -6,12 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](     )
 -->
 
-
-Atualmente, concluí o terceiro ano do ensino médio técnico integrado em Mecatrônica. Sou dedicado
-\
-a aprimorar continuamente minhas habilidades, buscando aplicar o conhecimento adquirido em projetos práticos.
-
-## ⚙️ Tecnologias que utilizo
+## ⚙️ Technologies that I use
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
