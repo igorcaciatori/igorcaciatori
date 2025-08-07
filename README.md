@@ -10,21 +10,20 @@ I enjoy building web applications mainly using Java, Spring Boot, Next.js, and T
 
 ## Technologies that I use
 
-![JAVA](https://img.shields.io/badge/Java-444?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-444.svg?style=for-the-badge&logo=spring&logoColor=6eb33f)
-![JavaScript](https://img.shields.io/badge/javascript-444.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-444?style=for-the-badge&logo=html5&logoColor=dd512a)
-![CSS3](https://img.shields.io/badge/CSS3-444?style=for-the-badge&logo=css3&logoColor=white)
-![NODEJS](https://img.shields.io/badge/Node.js-444?style=for-the-badge&logo=node.js&logoColor=80bd01)
-![MYSQL](https://img.shields.io/badge/MySQL-444?style=for-the-badge&logo=mysql&logoColor=white)
-![ARDUINO](https://img.shields.io/badge/Arduino-444?style=for-the-badge&logo=Arduino&logoColor=088b93)
 ![Figma](https://img.shields.io/badge/figma-444.svg?style=for-the-badge&logo=figma&logoColor=f25425)
+![JavaScript](https://img.shields.io/badge/javascript-444.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Spring](https://img.shields.io/badge/spring-444.svg?style=for-the-badge&logo=spring&logoColor=6eb33f)
+![NODEJS](https://img.shields.io/badge/Node.js-444?style=for-the-badge&logo=node.js&logoColor=80bd01)
+![ARDUINO](https://img.shields.io/badge/Arduino-444?style=for-the-badge&logo=Arduino&logoColor=088b93)
 ![React](https://img.shields.io/badge/react-444.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-444?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-444.svg?style=for-the-badge&logo=tailwind-css&logoColor=3ebff8)
 ![TypeScript](https://img.shields.io/badge/typescript-444.svg?style=for-the-badge&logo=typescript&logoColor=3178c6)
 ![Jira](https://img.shields.io/badge/jira-444.svg?style=for-the-badge&logo=jira&logoColor=2d88ff)
-
+![JAVA](https://img.shields.io/badge/Java-444?style=for-the-badge&logo=openjdk&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-444?style=for-the-badge&logo=mysql&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-444?style=for-the-badge&logo=next.js&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-444?style=for-the-badge&logo=css3&logoColor=white)
 
 ## What I'm Learning
 - C# and .NET
