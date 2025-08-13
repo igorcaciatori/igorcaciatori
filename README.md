@@ -26,6 +26,7 @@ I enjoy building web applications mainly using Java, Spring Boot, Next.js, and T
 ![CSS3](https://img.shields.io/badge/CSS3-444?style=for-the-badge&logo=css3&logoColor=white)
 
 ## What I'm Learning
+- Rust
 - C# and .NET
 - RabbitMQ
 - Redis
