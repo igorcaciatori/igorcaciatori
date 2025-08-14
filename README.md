@@ -25,6 +25,7 @@ I enjoy building web applications mainly using Java, Spring Boot, Next.js, and T
 ![Next JS](https://img.shields.io/badge/Next-444?style=for-the-badge&logo=next.js&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-444?style=for-the-badge&logo=css3&logoColor=white)
 
+<!--
 ## What I'm Learning
 - Rust
 - C# and .NET
@@ -32,7 +33,9 @@ I enjoy building web applications mainly using Java, Spring Boot, Next.js, and T
 - Redis
 - Angular
 - Kubernetes
-
+- Machine learning 
+-->
+  
 <!--
 ## 📈 Minhas estatísticas
 
