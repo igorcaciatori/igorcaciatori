@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caciatori07@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-777?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caciatori/)
 
-I'm a Software Engineering student at Católica de Santa Catarina and currently working full-time as a Technical Assistant at WEG, in the R&D Edge Devices department. 
+I'm a Software Engineering student at Católica de Santa Catarina and currently working full-time as an Embedded Software Developer at WEG, in the R&D Edge Devices department. 
 
 I enjoy building web applications mainly using Java, Spring Boot, Next.js, and TypeScript. I also like exploring different technologies and learn new things.
 
