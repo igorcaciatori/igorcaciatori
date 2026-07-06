@@ -15,7 +15,6 @@ I enjoy building web applications mainly using Java, Spring Boot, Next.js, and T
 ![JavaScript](https://img.shields.io/badge/javascript-444.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Spring](https://img.shields.io/badge/spring-444.svg?style=for-the-badge&logo=spring&logoColor=6eb33f)
 ![NODEJS](https://img.shields.io/badge/Node.js-444?style=for-the-badge&logo=node.js&logoColor=80bd01)
-![ARDUINO](https://img.shields.io/badge/Arduino-444?style=for-the-badge&logo=Arduino&logoColor=088b93)
 ![React](https://img.shields.io/badge/react-444.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-444.svg?style=for-the-badge&logo=tailwind-css&logoColor=3ebff8)
 ![TypeScript](https://img.shields.io/badge/typescript-444.svg?style=for-the-badge&logo=typescript&logoColor=3178c6)
